@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>new</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2fff66d5-8151-4ae6-8026-6f73457ad432</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('oaid').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>33c67f6f-94e9-4c84-ac87-b054dd06eb9c</id>
+      <masked>false</masked>
+      <name>oaid</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('name').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>3aee7709-5444-4273-80b9-351bfab67360</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>testone</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>b38f9808-e1bd-4879-8942-267c5e84a260</testSuiteGuid>
+   <testCaseLink>
+      <guid>349fd0cd-7977-4d46-837d-2d7befb33ab7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/kpi</testCaseId>
+      <testDataLink>
+         <combinationType>MANY</combinationType>
+         <id>7406ba01-f690-447b-93db-918b325882aa</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/name</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>MANY</combinationType>
+         <id>1df3bff9-a50a-4cab-ba4c-a66b3c5078fc</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/exid</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>1df3bff9-a50a-4cab-ba4c-a66b3c5078fc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>oaid</value>
+         <variableId>3731be8e-54b9-4e8f-9371-c841d8b1defe</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7406ba01-f690-447b-93db-918b325882aa</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>cb7bdca7-5b60-478e-9064-f2ba4bd668b0</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

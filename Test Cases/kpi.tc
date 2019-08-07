@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>kpi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25b9e6b8-3371-4e35-abf0-94b21dd73fa4</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('exid')</defaultValue>
+      <description></description>
+      <id>3731be8e-54b9-4e8f-9371-c841d8b1defe</id>
+      <masked>false</masked>
+      <name>oaid</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('name')</defaultValue>
+      <description></description>
+      <id>cb7bdca7-5b60-478e-9064-f2ba4bd668b0</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>
